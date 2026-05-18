@@ -59,5 +59,5 @@ Disclaimer
 This project is intended only for educational purposes and authorized security testing in controlled environments.
 
 <p align="center">
-  <img src="file_0000000033a871f7b131b79187f3719e.png" width="100%">
+  <img src="https://i.imghippo.com/files/PoRi3953vf.png" width="100%">
 </p>
